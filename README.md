@@ -1,2 +1,2 @@
 # Forget-task
-a batch script to disable unnecessary tasks through Task Scheduler
+A batch script to disable unnecessary tasks through Task Scheduler
